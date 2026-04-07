@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+pandas
+python-dotenv
+openai
+pytest

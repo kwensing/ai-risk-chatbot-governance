@@ -2,6 +2,8 @@
 
 This project is a Streamlit web app that wraps a large language model (LLM) with a simple, interpretable risk assessment layer.
 
+Streamlit Link: https://ai-risk-chatbot-governance-kwensing.streamlit.app
+
 It is designed as a portfolio / demo piece for AI ethics and governance roles in the pharmaceutical industry, showing how basic guardrails can be implemented around an LLM used for medical and compliance-related questions.
 
 IMPORTANT: This is a demo not a production system. It should not be used to make clinical decisions or replace professional medical advice.
